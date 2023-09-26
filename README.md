@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Web Scraper Logo" width="100" height="100">
+  <img src="icone.jpg" alt="Web Scraper Logo" width="100" height="100">
 </p>
 
 # Qweb Scraper
@@ -51,6 +51,6 @@ Este projeto é licenciado sob a Licença MIT. Consulte o arquivo LICENSE para o
 Desenvolvido por [Qhnk](https://github.com/Qhnk).
 
 <p align="center">
-  <img src="screenshot.png" alt="Web Scraper Screenshot" width="600">
+  <img src="print.png" alt="Web Scraper Screenshot" width="600">
 </p>
 ```
