@@ -2,13 +2,13 @@
   <img src="logo.png" alt="Web Scraper Logo" width="100" height="100">
 </p>
 
-# Web Scraper
+# Qweb Scraper
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Visão Geral
 
-O Web Scraper é uma poderosa ferramenta de raspagem de dados da web, desenvolvida em Python com as bibliotecas Beautiful Soup e Tkinter. Esta aplicação permite extrair links, imagens e arquivos de qualquer site da web e salvá-los localmente em seu computador.
+O QWeb Scraper é uma poderosa ferramenta de raspagem de dados da web, desenvolvida em Python com as bibliotecas Beautiful Soup e Tkinter. Esta aplicação permite extrair links, imagens e arquivos de qualquer site da web e salvá-los localmente em seu computador.
 
 ## Recursos Destacados
 
@@ -31,21 +31,23 @@ Você pode instalar essas bibliotecas com o comando:
 ```bash
 pip install requests beautifulsoup4 pillow
 ```
-##Como Usar
-1-Abra o aplicativo.
-2-Insira a URL do site que você deseja raspar.
-3-Defina a profundidade máxima de pesquisa.
-4-Escolha os tipos de recursos a serem salvos (links, imagens e/ou outros arquivos).
-5-Ative a opção de usar um diretório personalizado, se necessário.
-6-Clique no botão "Iniciar Busca" para iniciar a raspagem.
+## Como Usar
 
-##Contribuindo
+1. Abra o aplicativo.
+2. Insira a URL do site que você deseja raspar.
+3. Defina a profundidade máxima de pesquisa.
+4. Escolha os tipos de recursos a serem salvos (links, imagens e/ou outros arquivos).
+5. Ative a opção de usar um diretório personalizado, se necessário.
+6. Clique no botão "Iniciar Busca" para iniciar a raspagem.
+
+
+## Contribuindo
 Você pode contribuir para melhorar este projeto. Sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests) para aprimorar o código ou adicionar novos recursos.
 
-##Licença
+## Licença
 Este projeto é licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
 
-Autor
+## Autor
 Desenvolvido por [Qhnk](https://github.com/Qhnk).
 
 <p align="center">
